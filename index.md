@@ -1,13 +1,13 @@
 
-### Anahita Taheri
+### Sajad Tahmasbi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ name: Sajad
++ last name : Tahmasbi
++ Date of birth : 1992/June/02
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
 
@@ -22,8 +22,8 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
++ Diploma : Rafipour high school
++ Bachelor of science : Software Engineering
 _ payam Noor University of North 
 
 ### language
@@ -35,15 +35,16 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ Studing engineering books
 + travel 
-+ playing volleyball
++ playing Football
++ Playstation
++ Photography
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Photography.
 
 
 
