@@ -15,8 +15,8 @@
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Photography
++ Network and security
 
 
 ### Education
